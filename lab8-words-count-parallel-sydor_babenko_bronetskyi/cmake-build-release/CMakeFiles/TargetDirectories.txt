@@ -1,0 +1,7 @@
+/home/vbronetskyi/UCU/ACS/lab8-words-count-parallel-sydor_babenko_bronetskyi/cmake-build-release/CMakeFiles/countwords_seq.dir
+/home/vbronetskyi/UCU/ACS/lab8-words-count-parallel-sydor_babenko_bronetskyi/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/vbronetskyi/UCU/ACS/lab8-words-count-parallel-sydor_babenko_bronetskyi/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/vbronetskyi/UCU/ACS/lab8-words-count-parallel-sydor_babenko_bronetskyi/cmake-build-release/CMakeFiles/list_install_components.dir
+/home/vbronetskyi/UCU/ACS/lab8-words-count-parallel-sydor_babenko_bronetskyi/cmake-build-release/CMakeFiles/install.dir
+/home/vbronetskyi/UCU/ACS/lab8-words-count-parallel-sydor_babenko_bronetskyi/cmake-build-release/CMakeFiles/install/local.dir
+/home/vbronetskyi/UCU/ACS/lab8-words-count-parallel-sydor_babenko_bronetskyi/cmake-build-release/CMakeFiles/install/strip.dir

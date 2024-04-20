@@ -1,0 +1,9 @@
+/snap/clion/274/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/snap/clion/274/bin/ninja/linux/x64/ninja -G Ninja -S /home/vbronetskyi/UCU/ACS/lab8-words-count-parallel-sydor_babenko_bronetskyi -B /home/vbronetskyi/UCU/ACS/lab8-words-count-parallel-sydor_babenko_bronetskyi/cmake-build-release
+-- Found the following ICU libraries:
+--   uc (required): /usr/lib/x86_64-linux-gnu/libicuuc.so
+--   i18n (required): /usr/lib/x86_64-linux-gnu/libicui18n.so
+
+- UCU.APPS.CS: Consider enabling PVS-Studio in CMakeLists.txt by 'set(ENABLE_PVS_STUDIO ON)' flag or use Windows PVS Studio GUI.
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/vbronetskyi/UCU/ACS/lab8-words-count-parallel-sydor_babenko_bronetskyi/cmake-build-release
